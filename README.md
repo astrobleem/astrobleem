@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrobleem
 - 👀 I’m interested in ...computer science
-- 🌱 I’m currently learning ...google data analytics certificate
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...making video games
 - 📫 How to reach me ...chad.doebelin@gmail.com
 
